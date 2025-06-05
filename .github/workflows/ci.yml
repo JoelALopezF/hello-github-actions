@@ -1,4 +1,4 @@
-name: API Tests
+name: HR API Tests
 
 on: [push, pull_request]
 
